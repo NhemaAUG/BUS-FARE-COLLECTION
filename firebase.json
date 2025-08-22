@@ -1,7 +1,7 @@
 {
   "flutter": {
     "platforms": {
-      "android": {
+      "android": { 
         "default": {
           "projectId": "busfaresystem",
           "fileOutput": "android/app/google-services.json"
