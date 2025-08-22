@@ -32,7 +32,7 @@ A Flutter-based mobile application for real-time bus fare collection and monitor
 - Developed end-to-end from UI design to backend integration
 - GPS-enabled boarding/exit detection and mapping for accurate fare events
 - Integrated secure Firebase authentication and data handling
-- Hardware and software seamlessly connected for real-time operations
+- Hardware and software seamlessly connected for real-time operations 
 - Credentials removed from the codebase for security
 
 
