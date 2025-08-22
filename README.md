@@ -2,7 +2,6 @@
 
 A Flutter-based mobile application for real-time bus fare collection and monitoring, integrated with Firebase and IoT hardware (ESP32 + RFID) and GPS location services for boarding/exit mapping.
 
----
 
 ## 📱 What it does (brief)
 - A passenger taps a card/read from the hardware (ESP32 + RFID).
@@ -11,7 +10,6 @@ A Flutter-based mobile application for real-time bus fare collection and monitor
 - Fare is deducted from the passenger's balance in real time via Firebase.
 - Passenger can view balance and transaction history in the app; admins can monitor transactions from the dashboard.
 
----
 
 ## 📱 Features
 - GPS-based boarding & exit mapping (location-aware fare events)
@@ -22,7 +20,6 @@ A Flutter-based mobile application for real-time bus fare collection and monitor
 - Mobile-friendly UI built with Flutter
 - Firebase integration (secure placeholder configs included)
 
----
 
 ## 🛠 Tech Stack
 - **Frontend:** Flutter (Dart)  
@@ -30,7 +27,6 @@ A Flutter-based mobile application for real-time bus fare collection and monitor
 - **Hardware:** ESP32 + RFID  
 - **Location:** GPS / device location services
 
----
 
 ## 📂 Highlights
 - Developed end-to-end from UI design to backend integration
@@ -39,6 +35,6 @@ A Flutter-based mobile application for real-time bus fare collection and monitor
 - Hardware and software seamlessly connected for real-time operations
 - Credentials removed from the codebase for security
 
----
+
 
 
